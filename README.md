@@ -13,3 +13,13 @@
 ## Data
 
 ● The source data for the project is the CAMELYON16 challenge dataset.
+
+## Code
+
+● The code was divided in 6 books:
+
+
+
+
+
+
